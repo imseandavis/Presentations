@@ -9,7 +9,7 @@ Slides from the presentation can be found [here](/ARM-Presentation.pdf)
 ## Resources
 
 
-##Simple Demo
+## Simple Demo
 Deploy and Visualize The Simple Demo Right From GitHub!!!
 <br><br>
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fimseandavis%2FPresentations%2Fmaster%2F2018%2FOrlandoCodeCamp%2FSimpleDemo%2FSimpleDemo.Infrastructure%2FSimpleDemo.Infrastructure%2FWebSite.json" target="_blank">

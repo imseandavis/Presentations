@@ -21,3 +21,10 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
 </a><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fimseandavis%2FPresentations%2Fmaster%2F2018%2FAzureInTheATL%2FSimpleDemo%2FSimpleDemo.Infrastructure%2FSimpleDemo.Infrastructure%2FWebSite.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
+
+##Introduction Survey Results
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-1.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-2.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-3.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-4.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-5.jpg"/>

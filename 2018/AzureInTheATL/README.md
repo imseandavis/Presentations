@@ -24,8 +24,8 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
 
 ## Introduction Survey Results
 * Overview
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results%20-%20Summary-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results%20-%20Summary-2.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-2.jpg"/>
 
 * Summary
 <img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-1.jpg"/>

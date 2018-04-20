@@ -5,7 +5,7 @@ This repo contains the source code for a simple demonstration of my 2018 Azure I
 Slides from the presentation can be found [here](ARM-Presentation.pdf)
 
 ## Resources
-* [Get Latest PowerShell](https://github.com/gautema/cqrslite)
+* [Get Latest PowerShell](https://github.com/PowerShell/PowerShell)
 * [Get GitHub Account](http://www.github.com)
 * [Get Visual Studio Code](http://code.visualstudio.com)
 * [Get Azure Account](https://azure.microsoft.com/en-us/free)

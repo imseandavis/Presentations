@@ -17,8 +17,8 @@ Slides from the Infinite Scale, Infinite Budget presentation can be found [here]
 ## Simple Demo
 Deploy and Visualize The Simple Demo Right From GitHub!!!
 <br><br>
-<a href="http://armviz.io/#/?load=https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/SimpleDemo/SimpleDemo.Infrastructure/SimpleDemo.Infrastructure/WebSite.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fimseandavis%2FPresentations%2Fmaster%2F2018%2FGlobalAzureBootcamp%2FSimpleDemo%2FSimpleDemo.Infrastructure%2FSimpleDemo.Infrastructure%2FWebSite.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
-</a><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/SimpleDemo/SimpleDemo.Infrastructure/SimpleDemo.Infrastructure/WebSite.json" target="_blank">
+</a><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fimseandavis%2FPresentations%2Fmaster%2F2018%2FGlobalAzureBootcamp%2FSimpleDemo%2FSimpleDemo.Infrastructure%2FSimpleDemo.Infrastructure%2FWebSite.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>

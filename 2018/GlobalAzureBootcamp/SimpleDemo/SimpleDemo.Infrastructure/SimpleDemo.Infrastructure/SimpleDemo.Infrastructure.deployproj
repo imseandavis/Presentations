@@ -27,10 +27,10 @@
       <Visible>False</Visible>
     </None>
     <Content Include="Deploy-AzureResourceGroup.ps1" />
-    <Content Include="PROD.parameters.json" />
-    <Content Include="QA.parameters.json" />
+    <Content Include="WebSite-PROD.parameters.json" />
+    <Content Include="WebSite-QA.parameters.json" />
     <Content Include="WebSite.json" />
-    <Content Include="DEV.parameters.json" />
+    <Content Include="WebSite-DEV.parameters.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>

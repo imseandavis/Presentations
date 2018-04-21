@@ -1,8 +1,8 @@
 ## Introduction
-This repo contains the source code for a simple demonstration of my 2018 Global Azure Bootcamp presentation on Azure Resource Manager (ARM) Templates. The purpose of this project is to educate anyone interested in Azure to learn more about Resource Manager and Templates.
+This repo contains the source code for a simple demonstration of my 2018 Global Azure Bootcamp presentation on Azure Resource Manager (ARM) Templates and Infinite Scale, Infinite Money presentation. The purpose of this project is to educate anyone interested in Azure to learn more about Resource Manager and Templates.
 
 ## Presentation
-Slides from the Clkoud Deployments With ARM Templates presentation can be found [here](ARM-Presentation.pdf)
+Slides from the Clkoud Deployments With ARM Templates presentation can be found [here](ARM-Presentation.pdf) <br>
 Slides from the Infinite Scale, Infinite Budget presentation can be found [here](InfiniteScale-Presentation.pdf)
 
 ## Resources

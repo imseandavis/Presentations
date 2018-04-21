@@ -23,10 +23,10 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-## Cloud Deployments With Azure Resource Manager (ARM) Templates - Introduction Survey Results
+## Cloud Deployments With ARM Templates - Introduction Survey Results
 * Overview
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/Intro%20Survey%20Results/GlobalAzureBootcamp%20Survey%20Results-Summary-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/Intro%20Survey%20Results/GlobalAzureBootcamp%20Survey%20Results-Summary-2.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/Intro%20Survey%20Results/Survey%20Results-1.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/Intro%20Survey%20Results/Survey%20Results-2.jpg"/>
 
 * Summary
 <img src="https://github.com/imseandavis/Presentations/blob/master/2018/GlobalAzureBootcamp/Intro%20Survey%20Results/GlobalAzureBootcamp%20Survey%20Results-1.jpg"/>

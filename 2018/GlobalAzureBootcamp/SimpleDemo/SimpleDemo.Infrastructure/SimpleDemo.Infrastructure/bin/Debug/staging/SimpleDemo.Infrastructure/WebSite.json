@@ -182,6 +182,18 @@
       ]
     },
     {
+      "type": "Microsoft.Web/sites/providers/locks",
+      "apiVersion": "2016-09-01",
+      "name": "[concat(variables('Simple-Demo-App-Service-Name'), '/Microsoft.Authorization/siteLock')]",
+      "dependsOn": [
+        "[resourceId('Microsoft.Web/sites', variables('Simple-Demo-App-Service-Name'))]"
+      ],
+      "properties": {
+        "level": "CanNotDelete",
+        "notes": "Site should not be deleted."
+      }
+    },
+    {
       "name": "[variables('SQL-Server-Name')]",
       "type": "Microsoft.Sql/servers",
       "location": "[resourceGroup().location]",

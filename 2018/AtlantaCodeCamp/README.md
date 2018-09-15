@@ -1,5 +1,5 @@
 ## Introduction
-This repo contains the source code for a simple demonstration of my 2018 Azure In The ATL presentation on ARM Resource Manager Templates. The purpose of this project is to educate anyone interested in Azure to learn more about Resource Manager and Templates.
+This repo contains the source code for a simple demonstration of my 2018 Atlanta Code Camp presentation on ARM Resource Manager Templates. The purpose of this project is to educate anyone interested in Azure to learn more about Resource Manager and Templates.
 
 ## Presentation
 Slides from the presentation can be found [here](ARM-Presentation.pdf)
@@ -9,7 +9,7 @@ Slides from the presentation can be found [here](ARM-Presentation.pdf)
 * [Get GitHub Account](http://www.github.com)
 * [Get Visual Studio Code](http://code.visualstudio.com)
 * [Get Azure Account](https://azure.microsoft.com/en-us/free)
-* [Get VSTS Account](https://www.visualstudio.com/team-services/pricing)
+* [Get Azure DevOps Account](https://azure.microsoft.com/en-us/services/devops/)
 * [Get Visual Studio Community Edition](https://www.visualstudio.com/downloads)
 * [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 
@@ -24,12 +24,7 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
 
 ## Introduction Survey Results
 * Overview
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-2.jpg"/>
+NOT POSTED YET
 
 * Summary
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-2.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-3.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-4.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-5.jpg"/>
+NOT POSTED YET

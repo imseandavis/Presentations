@@ -1,6 +1,6 @@
 
 Tools
-..*[Cloud Comparison Tool (Website)](http://cloudcomparison.seanasaservice.com)
+  * [Public Cloud Comparison Tool (Website)](http://cloudcomparison.seanasaservice.com)
 
 
 Cloud Best Practices

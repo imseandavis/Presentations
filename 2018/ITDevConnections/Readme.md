@@ -2,7 +2,7 @@
 This repo contains the resource and presentation information for my 2018 IT/Dev Connections presentation on Journey To The Cloud: From Hardware To Microservices. The purpose of this project is to educate anyone interested in migrating some or all of thier on-premise resources to the cloud and learn more about what planning and resources are required to make the journey as well as some of the options available in a non vendor specific format.
 
 ## Presentation
-Slides from the presentation can be found here after the presentation.
+Slides Can Be Found Here After The Presentation
 
 ## Resources
   * Cloud Best Practices

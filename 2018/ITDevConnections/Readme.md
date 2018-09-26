@@ -19,9 +19,5 @@ Slides from the presentation can be found here after the presentation.
     * [Public Cloud Comparison Tool (Website)](http://cloudcomparison.seanasaservice.com)
     * [Azure Advisor - Best Practices Scanner (Website)](https://azure.microsoft.com/en-us/services/advisor/)
 
-## Introduction Survey Results
-* Overview
-Can Be Found Here After The Presentation
-
-* Summary
+## Survey Results
 Can Be Found Here After The Presentation

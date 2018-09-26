@@ -5,7 +5,7 @@ This repo contains the resource and presentation information for my 2018 IT/Dev 
 Slides from the presentation can be found here after the presentation.
 
 ## Resources
-  *Cloud Best Practices
+  * Cloud Best Practices
     * [AWS Cloud Migration Best Practices](https://aws.amazon.com/blogs/enterprise-strategy/21-best-practices-for-your-cloud-migration/)
     * [Azure Security Best Practices](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) 
     * [GCP Best Practices For Enterprise Organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)

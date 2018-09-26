@@ -4,7 +4,7 @@ This repo contains the source code and slides of my 2018 Atlanta Code Camp prese
 ## Presentation
 Azure Cloud Deployments Made Easy slides can be found [here](ARM-Presentation.pdf)
 <br>
-DevOps Aand Agile slides can be found [here](DevOps-And-Agile-Presentation.pdf)
+DevOps and Agile slides can be found [here](DevOps-And-Agile-Presentation.pdf)
 
 ## Azure Deployments Made Easy Resources
 * [Get Latest PowerShell](https://github.com/PowerShell/PowerShell)

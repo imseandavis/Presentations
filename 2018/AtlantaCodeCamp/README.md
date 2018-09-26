@@ -25,14 +25,5 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
 </a>
 
 ## Survey Results
-* Azure Deployments Made Easy Overview
-NOT POSTED YET
-
-* Azure Deployments Made Easy Summary
-NOT POSTED YET
-
-* DevOps and Agile Overview
-NOT POSTED YET
-
-* DevOps and Agile Summary
-NOT POSTED YET
+* [Azure Deployments Made Easy](ARM-Survey-Results.pdf)
+* [DevOps and Agile](DevOps-And-Agile-Survey-Results.pdf)

@@ -2,9 +2,9 @@
 This repo contains the source code and slides of my 2018 Atlanta Code Camp presentations. The purpose of the Azure Cloud Deployment presentation is to educate anyone interested in Azure to learn more about Resource Manager and Templates. The purpose of the DevOps and Agile presentation is how DevOps and Agile play together and a new take on how they can be applied in an organization to be successful together.
 
 ## Presentation
-Azure Cloud Deployments Made Easy slides can be found [here](ARM-Presentation.pdf)
+[Azure Cloud Deployments Made Easy](ARM-Presentation.pdf)
 <br>
-DevOps and Agile slides can be found [here](DevOps-And-Agile-Presentation.pdf)
+[DevOps and Agile: Break Down Silos And Build C.A.M.P.S.](DevOps-And-Agile-Presentation.pdf)
 
 ## Azure Deployments Made Easy Resources
 * [Get Latest PowerShell](https://github.com/PowerShell/PowerShell)

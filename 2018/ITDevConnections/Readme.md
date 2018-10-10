@@ -16,7 +16,7 @@ Slides Can Be Found Here After The Presentation
     * [GCP Cloud Migration Services](https://cloud.google.com/solutions/migration-center/)
     * [IBM Cloud Migration Services](https://www.ibm.com/cloud/migration-services)
   * 3rd Party Tools & Resources
-    * [Public Cloud Comparison Tool (Website)](http://cloudcomparison.seanasaservice.com)
+    * [Public Cloud Service Comparison Tool (Website)](http://cloudcomparison.seanasaservice.com)
     * [Azure Advisor - Best Practices Scanner (Website)](https://azure.microsoft.com/en-us/services/advisor/)
 
 ## Survey Results

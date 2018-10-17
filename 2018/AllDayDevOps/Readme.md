@@ -1,5 +1,5 @@
 ## Introduction
-This repo contains the source code and slides of my 2018 AllDayDevOps presentation. TBD
+This repo contains content for my 2018 AllDayDevOps presentation. This also includes links to the YouTube livestream and recorded video as well as the resources used in the presentation.
 
 ## Presentation
 [Infrastructure Unknown - Using Polymorphic Templates To Predict The Future](InfrastructureUnknown.pdf)

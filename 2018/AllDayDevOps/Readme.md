@@ -18,4 +18,4 @@ This repo contains content for my 2018 AllDayDevOps presentation. This also incl
 * [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 
 ## Simple Demo Using The Principles Taught
-To Be Released After The Demo And Live Stream Session
+To Be Released 24 Hours After The Demo And Live Stream Session

@@ -3,6 +3,7 @@ This repo contains content for my 2018 AllDayDevOps presentation. This also incl
 
 ## Presentation
 [Infrastructure Unknown - Using Polymorphic Templates To Predict The Future](InfrastructureUnknown.pdf)
+[Cloud Native Block 1 - I start at 20m 38s](https://www.youtube.com/watch?v=lXU2GbstE_4&t=0s&index=2&list=PLRXxvay_m8gr68Lh-hR41NXASXcQHI5AG)
 
 ## Video Link
 Will be Updated After Live Stream Session / Slack Chat

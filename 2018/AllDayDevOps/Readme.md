@@ -16,6 +16,7 @@ This repo contains content for my 2018 AllDayDevOps presentation. This also incl
 * [Linked Template Tutorial](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-tutorial-create-linked-templates)
 * [ARM Logic Operators](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-functions)
 * [ARM Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+* [Personal Favorite DevOps Slack Channel - Register For Invite](https://devopschat.co/register)
 
 ## Simple Demo Using The Principles Taught
 To Be Released 24 Hours After The Demo And Live Stream Session

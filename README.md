@@ -9,3 +9,5 @@
 <br>
 <a href="https://github.com/imseandavis/Presentations/tree/master/2018/ITDevConnections">2018 - IT/Dev Connections</a> 
 <br>
+<a href="https://github.com/imseandavis/Presentations/tree/master/2018/AllDayDevOps">2018 - All Day DevOps</a> 
+<br>

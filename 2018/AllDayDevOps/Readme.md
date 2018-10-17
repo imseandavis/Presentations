@@ -2,11 +2,10 @@
 This repo contains content for my 2018 AllDayDevOps presentation. This also includes links to the YouTube livestream and recorded video as well as the resources used in the presentation.
 
 ## Presentation
-[Infrastructure Unknown - Using Polymorphic Templates To Predict The Future](InfrastructureUnknown.pdf) <br/>
-[Cloud Native Block 1](https://www.youtube.com/watch?v=lXU2GbstE_4&t=20m38s)
+[Infrastructure Unknown - Using Polymorphic Templates To Predict The Future](InfrastructureUnknown.pdf)
 
 ## Video Link
-Will be Updated After Live Stream Session / Slack Chat
+[Cloud Native Block 1](https://www.youtube.com/watch?v=lXU2GbstE_4&t=20m38s)
 
 ## Resource Links
 * [ARM Template Syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)

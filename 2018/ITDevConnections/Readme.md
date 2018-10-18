@@ -1,8 +1,8 @@
 ## Introduction
 This repo contains the resource and presentation information for my 2018 IT/Dev Connections presentation on Journey To The Cloud: From Hardware To Microservices and the Birs of a Feather session. The purpose of this project is to educate anyone interested in migrating some or all of thier on-premise resources to the cloud and learn more about what planning and resources are required to make the journey as well as some of the options available in a non vendor specific format. There is also content around anyone interested in Corporate technology strategy and resources ot help get started.
 
-## Presentation
-[Journey to the Cloud: From Hardware to Microservices](JourneyToTheCloud.pdf)
+## Presentations
+[Journey to the Cloud: From Hardware to Microservices](JourneyToTheCloud.pdf) <br/>
 [Birds of a Feather - Best Practices for Planning Corporate Technology Strategy](BirdsofaFeather.pdf)
 
 ## Journey To The Cloud Resources

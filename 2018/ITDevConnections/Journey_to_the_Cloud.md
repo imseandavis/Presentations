@@ -2,7 +2,7 @@
 The journey to the cloud can be a bumpy one, with so many cloud choices and so little time to make the right decisions all while keeping the train running on time. That’s why it's more important than ever to ask the right questions. In this interactive session, participants will learn how to ask the right questions and suss out the areas that are most important in their journey to the cloud. We'll compare participant-nominated cloud providers and their services to assist in determining which mix of clouds and services may be right for you. We’ll cover everything from cost to capability, common challenges, balancing infrastructure and services, and we'll even address the dreaded legacy applications and lock-in elephants in the room.
 
 ## Presentations
-[Journey to the Cloud: From Hardware to Microservices](JourneyToTheCloud.pdf) <br/>
+[Journey to the Cloud: From Hardware to Microservices](Journey_to_the_Cloud.pdf) <br/>
 
 ## Resources
   * Cloud Best Practices

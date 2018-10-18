@@ -7,5 +7,8 @@ Businesses all over the world are engaging in new technology initiatives ranging
 ## Resources
 Can Be Found Here 24 Hours After the Presentation
 
+## Slack Chat Groups
+[2000+ Slack Chat Groups Related To IT](https://standuply.com/slack-chat-groups)
+
 ## Survey Results
 Can Be Found Here 24 Hours After The Presentation

@@ -1,15 +1,15 @@
-# Introduction
+## Introduction
 
-# Attendees Description
+## Attendees Description
 There were 35 attendees, everyone was an Agile practitioners, but there were 3 doing DevOps transformations.
 
-# Artifacts
+## Artifacts
 
-## Links
+### Links
 
-## DEVOPS AND AGILE TERMINOLOGY ASSOCIATION
+### DEVOPS AND AGILE TERMINOLOGY ASSOCIATION
 
-## NOTES
+### NOTES
 PAGE 1 <br>
 PAGE 2 <br>
 PAGE 3 <br>

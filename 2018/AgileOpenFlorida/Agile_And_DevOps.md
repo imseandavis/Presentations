@@ -8,6 +8,6 @@ There were 35 attendees, everyone was an Agile practitioners, but there were 3 d
 ### DEVOPS AND AGILE TERMINOLOGY ASSOCIATION
 
 ### NOTES
-PAGE 1 <br>
-PAGE 2 <br>
-PAGE 3 <br>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/> <br>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/> <br>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/> <br>

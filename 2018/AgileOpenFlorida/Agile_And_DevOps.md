@@ -4,7 +4,7 @@ This session focus was starting healthy dialog between Agile and DevOps practiti
 ## Artifacts
 
 ### Links
-AgileOpen Florida Website](https://agileopenflorida.com/)
+AgileOpen Florida Website](https://agileopenflorida.com/) <br>
 [All Sessions Notes And Boards](https://agileopenflorida.com/2018-sessions-and-notes/)
 
 ### Devops And Agile Terminology Association

@@ -1,6 +1,4 @@
 ## Introduction
-
-## Attendees Description
 There were 35 attendees, everyone was an Agile practitioners, but there were 3 doing DevOps transformations.
 
 ## Artifacts

@@ -5,7 +5,7 @@ This repo contains the source code for a simple demonstration of my 2018 Azure I
 ## Presentation
 Slides from the presentation can be found [here](Azure_DevOps_Projects_Presentation.pdf)
 
-## Introduction Survey Results
+## Survey Results
 * Overview <br>
 Can be found here, 48 hours after the presentation.<br><br>
 

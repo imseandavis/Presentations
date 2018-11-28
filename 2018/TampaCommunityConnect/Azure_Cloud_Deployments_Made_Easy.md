@@ -25,4 +25,5 @@ Deploy and Visualize The Simple Demo Right From GitHub!!!
 </a>
 
 ## Survey Results
-Can Be Found Here 24 Hours After The Presentation
+* [Overview - Azure Deployments Made Easy](https://github.com/imseandavis/Presentations/blob/master/2018/TampaCommunityConnect/Surveys/ARM_Introduction_Poll_Executive_Summary.pdf)
+* [Survey Results - Azure Deployments Made Easy](https://github.com/imseandavis/Presentations/blob/master/2018/TampaCommunityConnect/Surveys/ARM_Introduction_Poll_Survey_Results.pdf)

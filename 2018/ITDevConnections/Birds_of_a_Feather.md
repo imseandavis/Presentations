@@ -11,5 +11,5 @@ Can Be Found Here 24 Hours After the Presentation
 [2000+ Slack Chat Groups Related To IT](https://standuply.com/slack-chat-groups)
 
 ## Survey Results
-* [Overview - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/BOAF_Introduction_Executive_Summary.pdf)
-* [Survey Results - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/BOAF_Introduction_Survey_Results.pdf)
+* [Overview - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/BOAF_Introduction_Poll_Executive_Summary.pdf)
+* [Survey Results - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/BOAF_Introduction_Poll_Survey_Results.pdf)

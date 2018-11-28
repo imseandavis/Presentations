@@ -5,7 +5,7 @@ I wanted to start with a big thank you to all that attended!! You are the reason
 This repo contains the source code for a simple demonstration of my 2018 Azure In The ATL presentation on Azure DevOps Projects. The purpose of this project is to educate anyone interested in Azure to learn more about a single pane of glass tool to manage your entire DevOps pipeline.
 
 ## Presentation
-[Azure DevOps Projects](Azure%20DevOps%20Projects.pdf)
+[Azure DevOps Projects](Azure%20DevOps%20Projects.pdf) <br>
 [Video - TBD]()
 
 ## Introduction Survey Results

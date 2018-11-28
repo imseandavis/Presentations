@@ -7,12 +7,13 @@ Slides from the presentation can be found [here](Azure%20DevOps%20Projects.pdf)
 
 ## Introduction Survey Results
 * Overview
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-Summary-2.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Executive_Results-1.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Executive_Results-1.png"/>
 
 * Summary
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-1.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-2.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-3.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-4.jpg"/>
-<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Intro%20Survey%20Results/AzureInTheATL%20Survey%20Results-5.jpg"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-1.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-2.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-3.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-4.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-5.png"/>
+<img src="https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Images/Introduction_Poll_Survey_Results-6.png"/>

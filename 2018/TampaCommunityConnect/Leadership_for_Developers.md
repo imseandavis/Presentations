@@ -4,9 +4,6 @@ Leadership and management are commonly mistaken as the same thing, which can ham
 ## Presentations
 [Leadership For Developers](Leadership_For_Developers.pdf)
 
-## Resources
-Can Be Found Here 24 Hours After The Presentation
-
 ## Survey Results
 * [Overview - Leadership for Developers](https://github.com/imseandavis/Presentations/blob/master/2018/TampaCommunityConnect/Surveys/Leadership_Introduction_Poll_Executive_Summary.pdf)
 * [Survey Results - Leadership for Developers](https://github.com/imseandavis/Presentations/blob/master/2018/TampaCommunityConnect/Surveys/Leadership_Introduction_Poll_Survey_Results.pdf)

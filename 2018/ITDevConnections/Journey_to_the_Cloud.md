@@ -20,5 +20,5 @@ The journey to the cloud can be a bumpy one, with so many cloud choices and so l
     * [Azure Advisor - Best Practices Scanner (Website)](https://azure.microsoft.com/en-us/services/advisor/)
 
 ## Survey Results
-* [Journey to the Cloud: From Hardware to Microservices]()
-
+* [Overview - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/Journey_To_The_Cloud_Introduction_Executive_Summary.pdf)
+* [Survey Results - Journey to the Cloud: From Hardware to Microservices](https://github.com/imseandavis/Presentations/blob/master/2018/ITDevConnections/Surveys/Journey_To_The_Cloud_Introduction_Survey_Results.pdf)

@@ -20,4 +20,5 @@ The journey to the cloud can be a bumpy one, with so many cloud choices and so l
     * [Azure Advisor - Best Practices Scanner (Website)](https://azure.microsoft.com/en-us/services/advisor/)
 
 ## Survey Results
-Can Be Found Here 24 Hours After The Presentation
+* [The Journey To The Cloud]()
+

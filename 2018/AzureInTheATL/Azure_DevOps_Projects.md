@@ -6,6 +6,7 @@ This repo contains the source code for a simple demonstration of my 2018 Azure I
 
 ## Presentation
 [Azure DevOps Projects](Azure%20DevOps%20Projects.pdf)
+[Video - TBD]()
 
 ## Introduction Survey Results
 * [Introduction Survey Overview](https://github.com/imseandavis/Presentations/blob/master/2018/AzureInTheATL/Introduction_Poll_Executive_Results.pdf) <br>

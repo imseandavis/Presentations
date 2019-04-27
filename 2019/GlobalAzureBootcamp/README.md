@@ -1,3 +1,6 @@
+# Thank You
+I wanted to start with a big thank you to all that attended my session!! You are the reason I keep doing these events and I'm humbled by your dedication to the community. So thank you for your investment of time and the opportunity to both serve you and grow with you.
+
 ## Introduction
 This repo contains the source code for a simple demonstration of my 2019 Global Azure Bootcamp presentation on Azure DevOps Projects presentation. The purpose of this project is to educate anyone interested in Azure to learn more about a single pane of glass tool to manage your entire DevOps pipeline.
 

@@ -11,14 +11,14 @@ As time went on I learned how to hone my craft by reading anyhting I could get m
 Fast forward 2 years, now with over 37 events, 51 talks and 2 keynotes, an instructor role and global ambassador position in my field later and I've learned a lot and grown a lot from the experiences. Not to mention the massive amount of friends I've made and people I've helped and I'll tell you the same I told them, if I can do it, so can you!
 
 ## Resources <br>
-[Soup To Nuts - A Comprehensive Guide To Getting Started As A Speaker](https://medium.com/@leelefever/so-you-want-to-be-a-public-speaker-9e82aaac1403)
-[Public Speaking Misconceptions](https://speakingaboutpresenting.com/nervousness/thinking-sins-public-speaking/)
+[Soup To Nuts - A Comprehensive Guide To Getting Started As A Speaker](https://medium.com/@leelefever/so-you-want-to-be-a-public-speaker-9e82aaac1403) <br>
+[Public Speaking Misconceptions](https://speakingaboutpresenting.com/nervousness/thinking-sins-public-speaking/)<br>
 
 ## Venues <br>
 This really depends on what area of public speaking your in. My area is tech and transformation. I can only reliably reccommend tech conferences and sites, but there may be others things mixed in here as well.
 <br><br>
-[CFP List](https://www.cfplist.com/)
-[Sessionize](https://sessionize.com/)
+[CFP List](https://www.cfplist.com/) <br>
+[Sessionize](https://sessionize.com/) <br>
 <br>
 Finally, you'll want to check the site of a specific event as well. Sometimes they aren't published to CFP lists.
 <br>

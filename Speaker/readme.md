@@ -17,7 +17,11 @@ Fast forward 2 years, now with over 37 events, 51 talks and 2 keynotes, an instr
 ## Venues <br>
 This really depends on what area of public speaking your in. My area is tech and transformation. I can only reliably reccommend tech conferences and sites, but there may be others things mixed in here as well.
 <br><br>
-INSERT LINKS TO SESSIONIZE and other CFP's
+[CFP List](https://www.cfplist.com/)
+[Sessionize](https://sessionize.com/)
+<br>
+Finally, you'll want to check the site of a specific event as well. Sometimes they aren't published to CFP lists.
+<br>
 
 ## Infographics on Public Speaking
 ![Public Speaking Cheatsheet](https://github.com/imseandavis/Presentations/blob/master/Speaker/Infographic-Cheatsheet-for-becoming-a-public-speaking-expert.jpg)

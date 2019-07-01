@@ -8,3 +8,8 @@ A few years bakc I wanted to try out speaking at events to give back to the comm
 [Public Speaking Misconceptions](https://speakingaboutpresenting.com/nervousness/thinking-sins-public-speaking/)
 
 ## Venues <br>
+
+## Infographics on Public Speaking
+![Public Speaking Cheatsheet](https://github.com/imseandavis/Presentations/master/Speaker/Infographic-Cheatsheet-for-becoming-a-public-speaking-expert.jpg)
+![Public Speaking Facts](https://github.com/imseandavis/Presentations/master/Speaker/Infographic-Public-speaking.png)
+![Overcoming Public Speaking Anxiety](https://github.com/imseandavis/Presentations/master/Speaker/Infographic-Tips-to-Overcome-Presentation-Anxiety.jpg)

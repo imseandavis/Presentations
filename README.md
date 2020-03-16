@@ -17,5 +17,9 @@
 <br>
 <a href="https://github.com/imseandavis/Presentations/tree/master/2019/GlobalAzureBootcamp">2019 - Global Azure Bootcamp</a> 
 <br>
+<a href="https://github.com/imseandavis/Presentations/tree/master/2020/RSA">2020 - RSA Security Conference / DevSecOps Days</a> 
+<br>
+<a href="https://github.com/imseandavis/Presentations/tree/master/2020/DevOpsConnect">2020 - DevOps Connect</a> 
+<br>
 # Slack Chat Groups
 [2000+ Slack Chat Groups Related To IT](https://standuply.com/slack-chat-groups)

@@ -21,5 +21,7 @@
 <br>
 <a href="https://github.com/imseandavis/Presentations/tree/master/2020/DevOpsConnect">2020 - DevOps Connect</a> 
 <br>
+[Equifax Cloud Tech & Security Whitepaper](https://assets.equifax.com/marketing/US/assets/equifax_seizing_cloud_opportunity_safely_security_paper_aug2020.pdf)
+
 # Slack Chat Groups
 [2000+ Slack Chat Groups Related To IT](https://standuply.com/slack-chat-groups)
